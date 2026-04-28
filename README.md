@@ -1,4 +1,4 @@
-# lua-windows
+# lua-memory
 
 A Lua 5.4 extension written in C that exposes Windows API functions for UI, memory management, and process creation. Built using the Lua C API and compiled as a native Windows DLL.
 
